@@ -1,5 +1,7 @@
 env.vbs
+env.cmd
 curl/env.cmd
 curl/download/
 GROUP_DIRECTORY.xlsx
 000Sales_Center_project.accdb
+*.cer
